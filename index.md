@@ -7,5 +7,6 @@
 ``` C
 for(int i = 0; i < FINAL_SIZE; i++){
   printf("Hello World\n");
+  printf("Welcome\n");
 }
 ```
